@@ -1,0 +1,459 @@
+commit a7d011ee8c55a75942ae9185013fec63ec003a4f
+Author: rdw6297 <47403827+rdw6297@users.noreply.github.com>
+Date:   Wed Mar 27 09:14:35 2019 -0400
+
+    Ryan's portion of Skelleton Java
+    
+    Creation of empty classes and methods to template the layout of the program.
+    
+    Also small edit adding our team name to the new readme files.
+
+commit 05b402f267d76ead661ab84606fc26de83c819dc
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Tue Mar 26 16:30:34 2019 -0400
+
+    Added skeleton code for controller
+    
+    AddFood, AddWeight, DatePicker, SetMileStone.
+    
+    Still needs works.
+
+commit 771dcf7a8d66f86ab8284d31f73dfd337bb20787
+Author: Vignesh111 <vk4534@g.rit.edu>
+Date:   Tue Mar 26 15:09:11 2019 -0400
+
+    Changes
+
+commit 1df855c7c0f37375d1b9f16498ac1dd73d8b3ed8
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Mon Mar 25 10:00:55 2019 -0400
+
+    Updated the SRC folder
+    
+    Moved all diet manager folders to the src
+
+commit f9a26f6dd5f20e0a5aea2f8746aff16aea700933
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Sun Mar 24 17:00:05 2019 -0400
+
+    Added folders
+    
+    Added View, Model, Controller
+
+commit 66bcd704256ad1ea6161ee6111dedfb2e7187166
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Sun Mar 24 16:54:52 2019 -0400
+
+    Add design doc
+    
+    Add designdoc pdf to the doc folder
+
+commit 0714168ec33bc90fb761aadb4bc189564735f64e
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Sun Mar 24 16:52:55 2019 -0400
+
+    Update Readme
+    
+    Update Readme using the format provided in the MVC Thermometer Example
+
+commit c1261a97b792785a2f16bb35059ff05bdd49db2d
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Sun Mar 24 16:44:24 2019 -0400
+
+    Created folders, and default
+    
+    skeleton code cont...
+
+commit 4cb2732d79f6bf70ee87740e4a6bbe3dc2d5c3fb
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Sun Mar 24 12:14:24 2019 -0400
+
+    update name
+
+commit 098d071149f2af64ce81206f38891ffbf36490cd
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Sun Mar 24 12:13:15 2019 -0400
+
+    Create new File for javaskeleton
+    
+    Our work for java Skeleton
+
+commit dbdd1012866f840ef3d06eb0446939751b085606
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Mar 20 00:47:27 2019 -0400
+
+    Create designdoc v1
+    
+    This is the draft using the provided design document format the captures your initial design sketch.
+
+commit 0bda6d4cdcee6a8ffd335d923375ffd541996b1f
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Mar 6 17:45:34 2019 -0500
+
+    Update github.txt
+    
+    Log for V1.0-DesignSketch
+
+commit d675565a1e625ca4326e0abecbcec132ac05ef97
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Mar 6 17:34:32 2019 -0500
+
+    Fix Error, add PDF and file Name
+    
+    The sketch design must be present in the team's doc directory as a PDF file with the exact name designsketch.pdf. What is more, the version the team decides to submit must be committed to the team's repository and tagged exactly as V1.0-DesignSketch by the due date and time. Your instructor may modify these requirements in class, so be alert for any changes he or she specifies.
+
+commit a8c9d2143e5c4f1c25cca35b0f1b943cb113378f
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Mar 6 17:26:08 2019 -0500
+
+    Fix Error
+    
+    Full Name
+
+commit d1c7440698c6700f902cc53a5125eb348de3497d
+Author: Vignesh111 <vk4534@g.rit.edu>
+Date:   Wed Mar 6 17:19:01 2019 -0500
+
+    Updated version of design sketch
+
+commit 522f71dc6e7dc2eff1d482aad825242d9320500c
+Author: Vignesh111 <vk4534@g.rit.edu>
+Date:   Wed Mar 6 17:15:04 2019 -0500
+
+    Updated design doc
+
+commit 9d35301baed787257cdff49b3cc94c876af543d8
+Author: rdw6297 <47403827+rdw6297@users.noreply.github.com>
+Date:   Wed Mar 6 09:49:39 2019 -0500
+
+    Create DesignSketch.docx
+    
+    Design sketch project
+
+commit a4bfb08b76dd9a3a904e1e096a0373015fdebeb6
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Mon Mar 4 14:47:50 2019 -0500
+
+    Updated Git Log
+
+commit a31aca0a36635d532342bc788dbca129f81a9df3
+Author: rdw6297 <47403827+rdw6297@users.noreply.github.com>
+Date:   Mon Mar 4 03:23:28 2019 -0500
+
+    Create Activity 8.docx
+    
+    Group activity Nouns And verbs
+
+commit e6f52d27993d067c97746ebe522ff2149ab934a7
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 27 12:43:09 2019 -0500
+
+    Update .gitignore
+    
+    Full update provided by the whole team.
+
+commit e3cf5af7132a556937732221e90400aeac37663b
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 27 07:31:35 2019 -0500
+
+    Update .gitignore
+    
+    Made the correction.
+    
+    Provided by
+    Brennan Jackson, btj9560@rit.edu.
+    
+    Created by https://www.gitignore.io/api/java,linux,windows,intellij
+    Edit at https://www.gitignore.io/?templates=java,linux,windows,intellij
+
+commit e6b50205fa89bb9a5a9910eb5bad3ea1fb82d1b0
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Sat Feb 23 15:32:45 2019 -0500
+
+    update file name
+    
+    Updated filename.
+
+commit 9b6f7d3cbc09567d22c7593c82f035194c57872d
+Merge: d213968 d77b2e3
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Sat Feb 23 15:22:21 2019 -0500
+
+    Merge pull request #1 from RIT-SWEN-383-01/activity6
+    
+    Activity6
+
+commit d77b2e35676055e38e4a972600dc470875bc65cb
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Sat Feb 23 15:18:47 2019 -0500
+
+    Updated git log
+
+commit c050d7227cb00c7a0696d39ac09233f42eafb3ec
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Sat Feb 23 15:17:17 2019 -0500
+
+    Updated UML class diagram showing these changes; Updated UML sequence diagram showing these changes for Activity 6.
+
+commit d213968532f7135963862b80717fb233c9d0ff72
+Author: Vignesh111 <vk4534@g.rit.edu>
+Date:   Sat Feb 23 12:33:34 2019 -0500
+
+    Recent updates, please lmk if I have to make further changes
+
+commit 5d62d6589811211d28499ed4a85f23ccd67ee9dd
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Fri Feb 22 16:27:28 2019 -0500
+
+    Revert "Update README.md"
+    
+    This reverts commit 3b54567fb503ba99dcf2af9439a45fba0be1673c.
+
+commit 0862e4ea65a9f42e0792cced0e5a3b34f9a65811
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Fri Feb 22 16:26:56 2019 -0500
+
+    Create .gitignore
+    
+    Provided by
+    Brennan Jackson, btj9560@rit.edu.
+    
+    Created by https://www.gitignore.io/api/java,linux,windows,intellij
+    Edit at https://www.gitignore.io/?templates=java,linux,windows,intellij
+
+commit 3b54567fb503ba99dcf2af9439a45fba0be1673c
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Fri Feb 22 16:15:19 2019 -0500
+
+    Update README.md
+
+commit 9b14fc297821d7e596fd6087f2e2748a48b4aee8
+Author: exr4361 <47603726+exr4361@users.noreply.github.com>
+Date:   Fri Feb 22 00:34:37 2019 -0500
+
+    Barometer
+    
+    1. Added Java interface IBarometer
+    2. Changed the simulated Barometer class to implement the IBarometer interface.
+
+commit b3256cf1da046f3fcae8f07a82fb6d8ea89af0a5
+Author: rdw6297 <47403827+rdw6297@users.noreply.github.com>
+Date:   Thu Feb 21 15:26:20 2019 -0500
+
+    Corrections to activity 6
+    
+    removed non-final variables and corrected reading method from ITempSensor.  removed final varibales from KelvinTempSensor as they are defined in the interface.
+
+commit f8884a0aaf607b0877f6d55c4d245ab48a6bd801
+Author: rdw6297 <47403827+rdw6297@users.noreply.github.com>
+Date:   Thu Feb 21 15:17:44 2019 -0500
+
+    Assignment 6 task 3,4
+    
+    Created a interface that KelvinTempSensor implements. Created a adaptor for the KelvinTempSensor called KelvinTempSensorAdaptor that allows retrieval of Celsius, Fahrenheit, and Kelvin temperatures.
+
+commit 0351f328efba82dd2729c511544f848c8319da27
+Author: exr4361 <47603726+exr4361@users.noreply.github.com>
+Date:   Wed Feb 13 20:38:27 2019 -0500
+
+    Updates member.txt
+
+commit 6c3a7aae33f204114d6ed6acb773c8acb5701953
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 13 18:44:53 2019 -0500
+
+    Update src
+    
+    Added code to src
+
+commit 73c7e969cfe2e3d984e988dcf014e39a55b852b6
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 13 17:45:41 2019 -0500
+
+    Update doc
+
+commit b47208ee640f0db314a51e1cba584b54539f18cc
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 13 17:44:51 2019 -0500
+
+    Update doc
+
+commit c992e7ec1742841b16b6f034ffc21169466d5132
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 13 17:34:00 2019 -0500
+
+    Update doc
+
+commit 4b3529ad86efb14440a57ed15945ef47bc7a2319
+Author: Vignesh111 <vk4534@g.rit.edu>
+Date:   Wed Feb 13 17:25:04 2019 -0500
+
+    Class diagram added
+
+commit d171f1ebe6db98e09a2e71250ad73340081e34a8
+Merge: a45ed97 152259d
+Author: Vignesh111 <vk4534@g.rit.edu>
+Date:   Wed Feb 13 17:02:40 2019 -0500
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-383-01/team-project-2185-swen-383-01-e
+
+commit a45ed975296fa1f4f04c595bee8ea68884c5a589
+Author: Vignesh111 <vk4534@g.rit.edu>
+Date:   Wed Feb 13 17:01:09 2019 -0500
+
+    Added my info
+
+commit 152259d2ff1da53b88f678827939181aab91c3dd
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 13 16:59:47 2019 -0500
+
+    Update readme
+
+commit 2137b02da9ed052fdaf701d3cdf64cfe8927734d
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 13 16:41:27 2019 -0500
+
+    github.txt
+
+commit 4fb5fa6e549148b428de5dc4cedadcdd038f3296
+Merge: f0994aa 59369c5
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 13 16:36:58 2019 -0500
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-383-01/team-project-2185-swen-383-01-e
+
+commit 59369c56df898a78487beccebb2fa17f99ff9d28
+Author: Vignesh111 <vk4534@g.rit.edu>
+Date:   Wed Feb 13 16:10:08 2019 -0500
+
+    added my name to the team
+
+commit f0994aaa6cb1966af002c95e15d4793030ec4ff2
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 13 15:35:01 2019 -0500
+
+    #4 on Graded task
+
+commit 937a9dbccb19d87ab141e48aefe42a1789aef29b
+Merge: 14fc2bb 26a0475
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 13 15:30:42 2019 -0500
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-383-01/team-project-2185-swen-383-01-e
+
+commit 26a0475eeaad171f9677b11262c8b91c4c85953c
+Merge: 309ebb1 fc7bfb2
+Author: rdw6297 <47403827+rdw6297@users.noreply.github.com>
+Date:   Wed Feb 13 14:57:34 2019 -0500
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-383-01/team-project-2185-swen-383-01-e
+
+commit 309ebb167deb7033ac8645671674ee8cf46bfc8f
+Author: rdw6297 <47403827+rdw6297@users.noreply.github.com>
+Date:   Wed Feb 13 14:57:10 2019 -0500
+
+    Members file
+    
+    Added members file to doc's and filled in my portion.
+
+commit 14fc2bbaa469a37433e97dff58b82817959c4da3
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 13 14:57:06 2019 -0500
+
+    Revert "Revert "New directories""
+    
+    This reverts commit 52f30d621098648d587b7daa142439a1c0f1b86f.
+
+commit 52f30d621098648d587b7daa142439a1c0f1b86f
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 13 14:56:41 2019 -0500
+
+    Revert "New directories"
+    
+    This reverts commit 022f7c9cd198887f87d1bd8595374f31702e9e00.
+
+commit fc7bfb2295c5caaca148b1d226a9f19159f6eb9f
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 13 14:54:25 2019 -0500
+
+    src
+    
+    New directories added for src
+
+commit 022f7c9cd198887f87d1bd8595374f31702e9e00
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 13 14:51:42 2019 -0500
+
+    New directories
+    
+    under the /trunk of the repository named doc
+
+commit eb8befc253ee803174f604a0d84459143c7bdde1
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 13 14:50:10 2019 -0500
+
+    Delete trunk
+
+commit 8cb1c83bcb7b89abe3970fc46c2a1f47ab36acae
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 13 14:30:31 2019 -0500
+
+    Create Trunk
+    
+     Team must complete the following tasks
+
+commit 8f7011d2110ba516c73abbb20feb693ab7f2aebd
+Author: rdw6297 <47403827+rdw6297@users.noreply.github.com>
+Date:   Wed Feb 13 14:05:37 2019 -0500
+
+    readme update
+    
+    Added my name to the readme file
+
+commit 49f51e2f24e07f09f220c80c3053750a4080f71b
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 13 11:58:20 2019 -0500
+
+    Delete github.txt
+
+commit 3539aa40c003016ecb9a4690ca1b88f0509b1781
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Wed Feb 13 11:54:51 2019 -0500
+
+    Removed text: Team Member Name
+
+commit 349b16cd203fe1a3693aa3a643eac745ab9ffc35
+Author: exr4361 <47603726+exr4361@users.noreply.github.com>
+Date:   Wed Feb 13 11:14:18 2019 -0500
+
+    Efmajackson Rosario
+
+commit 629da43831775641989accc9c984e09247c71c98
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Tue Feb 12 16:25:35 2019 -0500
+
+    some commit message
+
+commit 4185c930f3de61f11f6ee38455fd8c38bca3fb25
+Author: vkc9448 <11416480+vkc9448@users.noreply.github.com>
+Date:   Tue Feb 12 16:05:05 2019 -0500
+
+    Update README.md
+
+commit efb637a5261047c375fcb2ef60138be5db21f2a2
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Fri Feb 9 09:53:07 2018 -0500
+
+    Update README.md
+
+commit 255b490386ebf0a392cd6556fdf4e2b5e6d2c2a7
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Fri Feb 9 09:50:49 2018 -0500
+
+    Update README.md
+
+commit abd3abfd3b9a3e259f04ecb1058f9e179530ce9a
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Fri Feb 9 09:47:03 2018 -0500
+
+    Initial commit
